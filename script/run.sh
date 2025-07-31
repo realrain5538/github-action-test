@@ -20,7 +20,7 @@ if [ ! -d "$LOG_DIR" ]; then
   mkdir -p "$LOG_DIR"
 fi
 
-echo "> 프로세스 종료 중..."
+echo "> 프로세스 종료 중...."
 PID=$(pgrep -f $APP_NAME)
 
 echo $PID
