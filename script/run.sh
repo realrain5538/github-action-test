@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APP_NAME=[JAR파일명 넣어주세요 !]
+APP_NAME=next-0.0.1-SNAPSHOT.jar
 APP_DIR=/home/ec2-user/app/build/libs
 LOG_DIR=/home/ec2-user/app/log
 
